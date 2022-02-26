@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The araignment [sic] and impeachment of Major Generall Massie, Sir William Waller, Col. Poyntz, Sir Philip Stapleton, Sir Iohn Maynard, Ant. Nichols, and one Cheisly, the Scotch Secretary, (lately taken at sea by the Vice-Admirall) with dives [sic] other surreptitious members of the Commons in Parliament, the Court of Aldermen, and Common Councell of the City of London; as namely Col. Sutton, Major Banes, Cap. Cox, now in safe custody, and other citizens of meaner ranke and quality of the Presbyterian faction. With a fresh discovery of their late treasonous plots, and horrid designes against the Parliament, the army, the famous City of London, and consequently of the whole kingdome, engaging them in a second cruell and bloudy warre. ... Also a thankfull remembrance of the late successe it hath pleased the Almighty to confer upon our ever renowned generall, Sir Thomas Fairfax, and his Councell of War, against that viperous brood of rigid Presbyters.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75605</idno>
+            <idno type="STC">Wing A3745</idno>
+            <idno type="STC">Thomason E404_6</idno>
+            <idno type="STC">ESTC R32530</idno>
+            <idno type="EEBO-CITATION">99872327</idno>
+            <idno type="PROQUEST">99872327</idno>
+            <idno type="VID">160455</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160455)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E404[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The araignment [sic] and impeachment of Major Generall Massie, Sir William Waller, Col. Poyntz, Sir Philip Stapleton, Sir Iohn Maynard, Ant. Nichols, and one Cheisly, the Scotch Secretary, (lately taken at sea by the Vice-Admirall) with dives [sic] other surreptitious members of the Commons in Parliament, the Court of Aldermen, and Common Councell of the City of London; as namely Col. Sutton, Major Banes, Cap. Cox, now in safe custody, and other citizens of meaner ranke and quality of the Presbyterian faction. With a fresh discovery of their late treasonous plots, and horrid designes against the Parliament, the army, the famous City of London, and consequently of the whole kingdome, engaging them in a second cruell and bloudy warre. ... Also a thankfull remembrance of the late successe it hath pleased the Almighty to confer upon our ever renowned generall, Sir Thomas Fairfax, and his Councell of War, against that viperous brood of rigid Presbyters.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Massey, Edward, --  Sir, 1619?-1674? --  Early works to 1800.</term>
+               <term>Waller, William, --  Sir, 1597?-1668 --  Early works to 1800.</term>
+               <term>Poyntz, Sydenham --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160455:1" rendition="simple:additions"/>
+            <p>THE ARAIGNMENT and Impeachment of Major Generall <hi>Maſsie,</hi> Sir <hi>William Waller,</hi> Col. <hi>Poyntz,</hi> Sir <hi>Philip Stapleton,</hi> Sir <hi>Iohn Maynard, Ant<g ref="char:punc">▪</g> Ni<g ref="char:EOLhyphen"/>chols,</hi> and one <hi>Cheiſty,</hi> the Scotch Secretary, (lately taken at Sea by the Vice-Admirall) with dives other ſurreptitious Members of the Commons in Parliament, the Court of Aldermen, and Common Councell of the City of London; as namely Col. <hi>Sutton,</hi> Major <hi>Banes,</hi> Cap. <hi>Cox,</hi> now in ſafe cuſtody, and other Citizens of meaner ranke and qua<g ref="char:EOLhyphen"/>lity of the <hi>Presbyterian</hi> Faction.</p>
+            <p>Wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h a freſh diſcovery of their late treaſonous plots, and horrid deſignes againſt the Parliament, the Army, the Fa<g ref="char:EOLhyphen"/>mous City of London, and conſequently of the whole Kingdome, in engaging them in a ſecond cruell and bloudy Warre.</p>
+            <p>Wherein the Conſpirators are araigned, convicted, and con<g ref="char:EOLhyphen"/>demned, according to their ſeverall crimes.</p>
+            <p>Alſo a thanfull Remembrance of the late ſucceſſe it hath plea<g ref="char:EOLhyphen"/>ſed the Almighty to confer upon our ever Renowned Ge<g ref="char:EOLhyphen"/>nerall, Sir <hi>Thomas Fairfax,</hi> and his Councell of War, againſt that Viperous brood of rigid Presbyters.</p>
+            <p>Printed in the Yeere, 1647. <add>Aug: 23.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160455:2"/>
+            <pb n="1" facs="tcp:160455:2"/>
+            <head>The Arraignement, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough I know it is no ſafe way in a time like this, to write truth of men or maners, eſpeci<g ref="char:EOLhyphen"/>ally thoſe who are the knowne Authors of Bloody Tragedies, and other horrid treache<g ref="char:EOLhyphen"/>ries, acted on the diſmall Theatre of a langui<g ref="char:EOLhyphen"/>ſhing Kingdome, yet in compaſſion to my a<g ref="char:EOLhyphen"/>buſed Countrey, and in a profeſſed hate to all the enemies ther<g ref="char:EOLhyphen"/>of, I have adventured once more to preſent to your viewes, a Mirrour or looking glaſſe, wherein you may ſee the crafty de<g ref="char:EOLhyphen"/>vices of divers Shimeies, Rabſhakeies, Iſhmaels, Achitophels, with all their M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chiavilian plots and policies, hammered out, and contrvied in the Divels fencing Schoole, where that Hy<g ref="char:EOLhyphen"/>dra-headed crew of ſtigmaticke furies, the <hi>Priniſts, Maſſites,</hi> and <hi>Wallites,</hi> meant to play their maſter prize.</p>
+            <div type="part">
+               <head>The Charge.</head>
+               <p>The firſt weapon they play withall, is a Cudgell, to cudgell into the peoples heads, that the Independents, Anabaptiſts, Sectaries, Heretickes, Schiſmaticks, and the like (names better befitting the Presbyters, then ſo faithfull a people) were many of them in places of publique truſt and power, and of the Com<g ref="char:EOLhyphen"/>mon counſell, and muſt ſpeedily be removed (if they intend to thrive in their treaſonable deſignes) therefore with much ur<g ref="char:EOLhyphen"/>geney, they perſwaded the Parliament ſpeedy to ſlight all ſuch Garriſons where any ſuch faithfull men were placed, and to newmould the Common counſell of the City, elſe they could proceed no further, but muſt croſſe their Cudgels, and give o<g ref="char:EOLhyphen"/>ver: and if they effected the ſame, they reſolved to introduce into their places, debauched and diſſolute perſons, the better to drive on their owne treaſonable deſignes, which they ſpeedily effected, and procured an Ord. for the ſame. Yet this would not carry it, unleſſe they could invent a way to make odious the Army, to the Parliament and people, and conſequently cauſe them to disband, and breake into pieces, without any conſideration of arreers, only a months pay, even whileſt they
+<pb n="2" facs="tcp:160455:3"/>themſelves went about to raiſe or forme a new force, under preſence of the ſervice of Ireland, when indeed it was to ſerve their owne treaſonous deſignes in England. This plot, though carried on with much cunning, was no ſooner diſcovered by the faithfulneſſe of the Army, bu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as ſpeedily communicated to the Parliament, who ſpeedily joyned with them in the ſuſ<g ref="char:EOLhyphen"/>penſion of many corrupt Members, guilty of the treaſonous delighes before mentioned: who conſequently were impea<g ref="char:EOLhyphen"/>ched, and teſtrained from ſitting in the Houſe, as Judges in their owne came, or ex<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ciſing their power in Committees, till th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir cauſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſhould be tried. After which (at the Cities requeſt) the Army withdrew at a diſtance from the City: in the meane while, theſe impeached Members, pretending to av<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny diſturbance or interruption in retarding the publick aff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yres of the Kingdome, obtayned Paſſes to travell, though the Army preſumed of the ca<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the Houſes for their foorth coming to be tried, when the weighty affaires of the King<g ref="char:EOLhyphen"/>dome were ſetled.</p>
+               <p>Yet as men loath to give over, when they had taken ſuch paines to advance their plots, they inſtead of travelling (taking the advantage of the diſtance of the Army) travelled and brought forth a new device, which was to contrive and ſet a foot a ſecret combination, in a miſchievous and deſperate vow and engagement, under the notion of a Petition to the Major and Aldermen &amp;c. conſiſting of a factious party of Ci<g ref="char:EOLhyphen"/>tizens. Commanders, Officers, Yong men, Apprentices, with a ſolemne engagement annexed thereto: This griſt was car<g ref="char:EOLhyphen"/>ried to the <hi>Miller,</hi> by the ſervant one <hi>Bellamy</hi> a Bookſeller, at the Old Exchange, where it was grownd and moulded into a forme, with a ſpace left to every ſheet for the ſetting their hands: great numbers of them were Printed and diſperſed all over the City with all ſpeed, under a feigned<note n="*" place="margin">Religion a pretence for all treaſons, rebelli<g ref="char:EOLhyphen"/>ons, &amp;c.</note> pretence <hi>of the Preſervation of Religion, his Majeſties honour, the Priviledges of Parliament, the Liberties of the Subject, all in great danger, and like to be deſtroyed</hi> for rather then theſe fat-headed Citizens, Ap<g ref="char:EOLhyphen"/>prentices, and others, would let them want deſtroying, they reſolved to deſtroy one of them themſelves; <hi>viz.</hi> the Priviled<g ref="char:EOLhyphen"/>ges
+<pb n="3" facs="tcp:160455:3"/>of Parliament which they roundly went about to doe, and did effect; and reſolved to deſtroy the reſt, ſo ſoone as poſſibly they could: but the great obſtacle is, They cannot get the King to London, without neerer approach of the Army,—elſe they could hardly make uſe of him and his party, to lay the foundation of a new war, even upon the ruines of the common intereſt of the Kingdome. Soone after July 23. the Lords and Commons did adjudge and declare, the ſayd engagers, and all that ſhould promote or abet the ſayd engagement, to be guilty of high treaſon: three dayes after, a Petition was brought to the Parliament by the Shiriffes, ſome Aldermen, and Common counſell men, in the name of the City of London, to recall the ſayd Declaration, and to returne the Militia into thoſe hands in which it was put by Ordinance of the fourth of May; which Petition was preſently followed and backed by a tumultuous confluence of Apprentices, and divers other diſſolute, deſpe<g ref="char:EOLhyphen"/>rate, and riotous perſons, who committed moſt horrid and un<g ref="char:EOLhyphen"/>heard of violence, upon both Houſes, forcing them to Vote what they pleaſed; and yet no order taken by the<note n="*" place="margin">They were ſent to, and had notice thereof.</note> Major, Shiriffes, or Authority of the City, to ſuppreſſe the ſayd tumul<g ref="char:EOLhyphen"/>tuous rowt, (or releeve the Parliament from their violence) by which meanes both Speakers, with moſt of the Lords, and faithfull Commons, were faine to flie to the Army for refuge and protection,</p>
+               <p>In the meane time theſe tumultuous routs backed by the im<g ref="char:EOLhyphen"/>peached Members, choſe new Speakers, and cauſed themſelves againe to be voted into the ſervice of the Houſe, and to ſet up a Committee for ſafety, for the moſt part of the very men impea<g ref="char:EOLhyphen"/>ched, appointed to joyne with the pretended City <hi>Militia,</hi> whoſe power was obtained by the tumultuous force and vio<g ref="char:EOLhyphen"/>lence aforeſaid, who aſſumed powers to vote as they pleaſed, to appoint Chiefe Commanders, and Officers, and to lift and raiſe Souldiers, both horſe and foote to leavy a new warre in proſecution and maintenance of the aforeſaid treaſonable en<g ref="char:EOLhyphen"/>gagement; likewiſe the City Declaration, approved of by the ſaid Committee to be publiſhed and read in Churches, to ex<g ref="char:EOLhyphen"/>hort the people to take up Armes to oppoſe the advance of the
+<pb n="4" facs="tcp:160455:4"/>Army towards London, though they come only for reſtitution of the Speakers, and other Members of both Houſes, lately dri<g ref="char:EOLhyphen"/>ven away, and in purſuance of their juſt Priviledges and Free<g ref="char:EOLhyphen"/>domes, and to prevent a new warre in the Kingdome againſt the Parliament and their Army, for the deſtruction of them both, which may more evidently appeare, conſidering that the chiefe Actours and Promoters of this treaſonous ingage<g ref="char:EOLhyphen"/>ment <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e the very men that were moſt active, and moſt tru<g ref="char:EOLhyphen"/>ſtie, and imployed in theſe treacherous preparations for leavy<g ref="char:EOLhyphen"/>ing a new warre.</p>
+               <p>What ſaieſt thou Major Generall <hi>Maſſey,</hi> art thou guilty or not guilty of this charge exhibited againſt thee, and the reſt of thy impeached brethren? If thou art (as 'tis moſt likely) thou wilt much ecclipſe and darken thy former valour, lately ex<g ref="char:EOLhyphen"/>preſt in an hyperbulous, and thinne witted paper-pellet (enti<g ref="char:EOLhyphen"/>tuled <hi>Vertue and valour vindicated,</hi> fathered by <hi>R.C.</hi> upon <hi>I.H.</hi>) thy noble (or 105) friend, who writes as followeth, page 3, <hi>What had become of Parliament, Kingdome, Religion, Lawes, Li<g ref="char:EOLhyphen"/>berties, all, hadſt not thou (Renowned Impe of warre) taken Mars himſelfe by the beard, and ſtopt that Imperiall Army in their full careere, whoſe vaſt bulke covered the declining Weſt, and ſtroake ter<g ref="char:EOLhyphen"/>rour at a diſtance to the uttermoſt corners of the Kingdome?</hi> Who was he that like St. <hi>George</hi> preſerved that Virgin City <hi>Gloceſter</hi> from the al-devouring panch of Dragon <hi>Mynne?</hi> Was it not <hi>Maſſey</hi> that diſmantled nine Royall Garriſons in ſtorme of fire condenced with leaden haile, the loſſe of one of which did make his<note n="*" place="margin">As dutiful as Abſo<g ref="char:EOLhyphen"/>lon, oſon.</note> King ſhed teares? Was it not <hi>Maſſey</hi> whoſe thun<g ref="char:EOLhyphen"/>derbolt did breake the ice of Winters frozen fury in the Daniſh Foreſts; that goard great <hi>Gorings</hi> body thorrow and thorrow, and with his Mirmidons routed the proud <hi>Hoptonian</hi> powers, and thunder-hunted his proud inſulting foes in warlike ſport like fearefull Partridges ore the Mountaines: The very ſame man? Was it not victorious Sir <hi>William,</hi> that from his very e<g ref="char:EOLhyphen"/>nemies purchaſed (through blood and ſweat) that glorious Title, of <hi>William the Conquerour?</hi> and can theſe brave Heroës be ru<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> crimes? ſurely it cannot be, though <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſhrewd ſuſpition of ſome ſuch <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>?
+<pb n="5" facs="tcp:160455:4"/>
+                  <hi>Who drew his all conquering ſword, and ſlow an unarmed aged man, was is not Pointz, one of theſe valiant Reformadoes, ſince run away with the reſt leſt deſerved juſtice ſhould promote them for ſuch brave atchivements? Who was it that ſo providently provided for his jour<g ref="char:EOLhyphen"/>ney before hand and ſirkind up a maſſe of gold, and plundered jewells? Was not it my Lady what dee call her, or her Will.</hi> ſome are not afraid to whiſper ſo.</p>
+               <p>How many times have men of your condition untimely miſcarried (as the <hi>Hothams</hi>) <hi>Carew,</hi> and others, even before your faces, and ſtill you remaine unmoved; divers able and active men great wraſtlers, and as cunning gameſters as your ſelves, ſuch as were ſeldome foiled whilſt they uſed faire play, now of late taking a wrong hold, by a ſlip had their necks broke (to the griefe of all that knew them) who might have lived ſtill, and lived well, had they beene well affected; wee cannot deny but many of you have purchaſed honour, and might ſtill have maintained the ſame, had you not been per<g ref="char:EOLhyphen"/>verſe againſt reaſon, againſt ſence, againſt the light of your owne conſciences, and the judgements of all honeſt and un<g ref="char:EOLhyphen"/>derſtanding Chriſtians, you had queſtionleſſe ſhunned the in<g ref="char:EOLhyphen"/>famy and ruine that now attends and follows you, from which you cannot flie. But ſince you have proceeded thus farre in miſchiefe, it is high time for the Parliamant, and Army, to look about them, and uſe all the meanes, they can, (as I hope they will not be backward) to charme ſuch peſtilent vipers, which If not done in time will make all our hearts to ake, and when too late, to blame our owne ſelves: Gods cauſe muſt and will prevaile, maugre the malice of all that oppoſe it, or ſuch a judgement will overtake this Land, that will cauſe all our eares to tingle, and make us a by-word and reproach to all Nations. <hi>Vale.</hi>
+               </p>
+            </div>
+            <div type="postscript">
+               <pb n="6" facs="tcp:160455:5"/>
+               <head>Poſtſcript.</head>
+               <p>Now let me inſtead of a Poſtſcript take up the words of the children of <hi>Iſrael</hi> in the like caſe to ours; <hi>If the Lord had not beene on our ſides, how had they ſwallowed us up,</hi> and with us our chiefeſt glory? How hath the Lord ſtrengthned the hands of our renowned Generall Sir <hi>Thomas Fairefax,</hi> what ſucceſſe hath continually waited upon that ever Honorable Comman<g ref="char:EOLhyphen"/>der Liev. Generall <hi>Crumwell,</hi> in all his <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chivements ſince the beginning of theſe warres, and it is the Lord of Hoſts that hath done all this for us, and not the ſinfull arme of fleſh, and doubt<g ref="char:EOLhyphen"/>leſſe will doe greater things then theſe for us? O therefore let us ſhew our ſelves thankefull unto him, and praiſe his holy name who with his alſeeing eye hath brought to light, and confoun<g ref="char:EOLhyphen"/>ded all the devices, and hell-hatched plots and conſpiracies contrived againſt us, this Kingdome, and City, by theſe cruel enemies to peace and truth, who thought nothing leſſe, then to make themſelves happy by the ruines of others.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
